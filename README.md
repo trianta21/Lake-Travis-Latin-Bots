@@ -1,5 +1,5 @@
 # Lake-Travis-Latin-Bots
-A series of scripts that utilize selenium to perform latin tasks that are based on the stroies of Ritchie. An Aguirre's worst nightmare.
+A series of scripts that utilize selenium to perform latin tasks that are based on the stories of Ritchie. An Aguirre's worst nightmare.
 
 These bots are based on the latin website and latin lexicon as they existed by June of 2022, since I no longer have access to the latin website, I cannot update the bots past their current state; however, the algorithms used in these bots are nearly perfect in accomplishing the tasks givin in the latin website, the only change that may need to be made is changes made to the Xpaths in the latin website, latin lexicon, or the Google search engine. For those who don't have experience in selenium or with HTML, a Xpath is the path identification for an HTML item, the easiest way to find the Xpath of an object is to inspect the HTML file and copy the FULL Xpath(the full xpath is needed for selenium to function as intended).
 
